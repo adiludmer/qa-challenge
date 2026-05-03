@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="QA Challenges logo" width="240">
+</p>
+
 # QA Challenges
 
 A series of take-home challenges for candidates applying to QA roles with **very basic programming knowledge**. Each challenge is designed to evaluate a different aspect of the QA mindset — observation, structured reporting, adversarial thinking, automation literacy — without requiring deep coding skill.
@@ -22,6 +26,7 @@ More challenges will be added over time, building toward automation, API testing
 .
 ├── README.md               # this file
 ├── .gitignore              # excludes interviewer-only materials
+├── assets/                 # shared images (logo, etc.)
 └── challenge-NN-<topic>/
     ├── README.md           # candidate instructions
     ├── SPEC.md             # requirements / source of truth
