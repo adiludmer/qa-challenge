@@ -17,6 +17,7 @@ If you're an **interviewer**: each challenge folder contains a candidate-facing 
 | # | Folder | Focus | Approx. time |
 |---|---|---|---|
 | 01 | [`challenge-01-login/`](./challenge-01-login/) | Black-box exploratory testing of a buggy login page; bug reports and test planning | 60–90 min |
+| 02 | [`challenge-02-todo/`](./challenge-02-todo/) | Frontend + backend todo app via `docker compose`; manual UI bugs *and* an automated API test script | 90–120 min |
 
 More challenges will be added over time, building toward automation, API testing, and test design.
 
