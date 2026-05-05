@@ -1,3 +1,6 @@
 # Interviewer-only materials (answer keys, rubrics).
 # These live in a separate private repo — never commit to the public challenge repo.
 **/_interviewer/
+
+# macOS
+.DS_Store
